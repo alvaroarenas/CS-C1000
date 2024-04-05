@@ -1,0 +1,84 @@
+The AI Act, a deep dive
+
+The field of  artificial intelligence (AI) has gone over significant progress over the last 2 years. This has brought the attention of companies which are willing to use AI products and tools. The use of AI can bring significant competitive advantages to those who utilize them. On the other hand, AI also creates a new set of problems. The nature of AI tools in which the handling of data is at such an scale that is impossible for the human mind to comprehend why AI models behave in certain ways, might be challenging and scary.  This scenario has driven public organisms to bring the legislation up to pair with the current development. The AI Act is a legal framework created by the European Union (EU). It defines a set of regulations to promote the uptake of AI while addressing the risk associated with it.
+
+According to the EU Impact Assessment on AI, the main problems are:
+
+Use of AI poses increased risks to safety and security of citizens.
+Use of AI poses increased risk of violations of citizens’ fundamental rights and Union values.
+Authorities do not have powers, procedural frameworks and resources to ensure and monitor compliance of AI development and use with applicable rules.
+Legal uncertainty and complexity on how existing rules apply to AI systems dissuade businesses from developing and using AI systems
+Mistrust in AI would slow down AI development in Europe and reduce the global competitiveness of the EU economy
+Fragmented measures create obstacles for cross-border AI single market and threaten Union’s digital sovereignty
+
+
+
+The AI Act tackles the problems listed above through the following by categorizing the AI systems according to their risk. It list a series of practices that are prohibited,  specifies  a series of mandatory requirements for so called high-risk AI systems as well as for general purpose  AI systems with systematic risk. Additionally it lays out codes of conduct for non-high-risk AI systems.
+
+The AI act is made up of a series of clauses. Among them the most important, according to my perception are:
+
+DEFINITIONS: It lists a series of definitions and scopes related to AI. The field of AI is evolving very quickly. The AI Act ams to be technology neutral and future proof. The AI Act defines ‘AI system‘ is a machine-based system designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments;
+
+PROHIBITED ARTIFICIAL INTELLIGENCE PRACTICES:. These are mostly system which violates the fundamental rights of citizens. An interesting case of this is  the real-time biometrical detection placed in a public space used by law enformence. This  can be used though under certain circumstances for the persecusion of crime and needs to have the authorisation granted by a judicial authority.
+
+HIGH-RISK AI SYSTEMS: Defines mandatory requirements for systems that create a high risk to the health and safety or fundamental rights of natural persons. For a system to be cataloged as high risk, it is taken into account the function performed by the AI system as well as the purpose of it. E.g critical infrastructures that could put the life and health of citizens at risk. One example of this is the transport system. Is interesting to notice that there is a statistical component to many of the AI models which provides a small margin for  error. This could be very troublesome when the AI model is a applied to higher numbers. For example, processing the application of many persons might imply that some of the forms are wrongly processed which in turn might vulnerate the rights of the individual. 
+
+TRANSPARENCY OBLIGATIONS FOR PROVIDERS AND USERS OF CERTAIN AI SYSTEMS AND GPAI 
+Transparency refers to the obligation by the AI provider to maintain the natural persons informed that they are interacting with an AI system and that the content the humans interact with was artificially generated. This is not necessary if the content has been curated by a human, in which then the content’s editor maintains the responsibility for it.
+
+General purpose models 
+General purpose models are classified. The AI act specifies criterias how to identify general purpose ai models with systematic risk. General purpose ai  includes those when trained with a large amount of data.AI model, that has the capability to serve a variety of purposes.  ‘systemic risk at Union level’ means a risk that is specific to the high-impact capabilities of general-purpose AI models, having a significant impact on the internal market due to its reach, and with actual or reasonably foreseeable negative effects on public health, safety, public security, fundamental rights, or the society as a whole, that can be propagated at scale across the value chain;
+
+MEASURES IN SUPPORT OF INNOVATION
+In order to encourage the adoption and development of AI, the AI act  defines  AI regulatory sandboxes establish a controlled environment to test innovative technologies for a limited time on the basis of a testing plan agreed with the competent authorities. 
+
+GOVERNANCE AND IMPLEMENTATION
+It establishes how to orginize the management and overseeing of AI a the Union and national level.
+
+
+The AI act concentrates mostly in high-risk system and defines the obligations of providers and users of these systems have. It also explains how the EU can promove the use of sandboxes where also small players can have access to large amounts of data in order to develop high-risk system. With the idea that not only big companies can participate in the development of such systems. Also the fees for certification will be proportional to the size of the company.
+
+But what about the non-high-risk systems?
+They should conform to transparency when the systems interact with users. However, there is no further requirements for AI systems which do not interact directly with users and most of the system deployed today in the EU fall into this category [1] There are some statements about how the code of conduct can be written and who can do so. But there is no mention about of the specifics on what those codes are. All in all, very lose.
+
+In the class, Meeri Haataja did not mention that most of the systems are low risks.
+High risk need proper governance. She left the impression that anyone using generative AI must have a vast governance for the products. However, depending on the use of those models, those generative ai models might not event need to complain with the AI act high-risk rules.
+
+
+How will be compliance enforced
+Each Member State shall designate a national supervisory authority
+
+Access to data and documentation in the context of their activities, the market surveillance authorities shall be granted full access to the training, validation and testing datasets used by the provider, including through application programming interfaces (‘API’) or other appropriate technical means and tools enabling remote access.
+
+GDPR, Cookie law and AI Act
+
+There is a clear and marked tendency to protect the individual against the use and abuse of personal data. In a world were many services like email, photo and video storage products are given for “free”, mean that the customer, their behavior and profiling is the product. Without a regulation to protect individuals might mean that their rights are being vulnerated.
+
+In this context the AI is clear effot to protect the individuals and the sociaty as a whole form the risk involved in AI. Also for those problems related to the concentration of power of large corporations which might be the only ones capable of such a training power for their AI models. As explained in class, one of the big reasons for the accelerated progress in the filed of AI is the access and processing power for large amounts of data that has been reached in the last years.
+
+
+
+
+
+Main concerns 
+
+I see to main concerns in the advancement of AI based in my personal experiences:
+
+Enforcement.
+My personal experience is that fiscalisation for small and medium enterprise is very limited. While there are prominent cases where mega-corporates have been givens substantial fines when not complying with the requirements. The true is that there is very little fiscalization in the industry and the complement for GDPR and in the future for AI act will highly depend on the good will of the companies putting the software into market. There is also a lack of literacy to comply. Many times Software development projecat do want to comply. However, there is a lack of authoritative practices to do so.
+
+Additionally, each software project and business is unique. While there might be some standard practicies that fit to all, there are many times when the exacta approach in how to comply is not known to the development team and it escalates until a layer can interpret the law and give a green light to the feature in question. 
+
+By looking at the proposed AI act I see a good framework as a bases. But I still see a lot of room for interpretation where the practicalities of software development are not specified.
+
+
+What will happen in other countries where the customer interest is not protected thoughtfully?
+I am concerned about how the rights of people will be protected in countries where the consumer rights are much weaker. As an example, while there is a regulatory frame to protect 
+the consumers in Chile. The fines to corporations are very low and sometimes frankly ridiculous. Also the fiscalization power of the government is very low. Cases like the Johnson's retail chain and the Penta case where the fines imposed to the perpetuators were seen as not enough to deinsentivate these practices or even ridiculous were high executives were only required to attend an ethics course. Who will protect the consumers?
+
+Transparency 
+There has been a lot of controversy already many years ago regarding image manipulation in the fashion industry and the idealized and many times unachivable standard of beauty. While this is very well known practice, people seem to forget that this is the issue. I am concerned that content will be mixed with real content making more difficult for the  the consumer to distinguish reality from fiction.
+
+
+[1] https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+
